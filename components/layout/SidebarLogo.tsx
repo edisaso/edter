@@ -17,11 +17,11 @@ const SidebarLogo = () => {
         flex 
         items-center 
         justify-center 
-        hover:bg-blue-300 
+        hover:bg-orange-600 
         hover:bg-opacity-10 
         cursor-pointer
     ">
-      <BsTwitter size={28} color="white" />
+      <BsTwitter size={28} color="FF6600" />
     </div>
   );
 };
